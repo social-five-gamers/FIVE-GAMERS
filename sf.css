@@ -144,7 +144,8 @@ width: 30%;
 
 	}		
 img {
-width: 80px;
+	margin: 20px 60px;
+width: 85px;
 height: 80px ;
 border-radius: 10px;
 margin-right: 1200px;
